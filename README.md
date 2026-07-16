@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Thrishwant%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20ML%20Security%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Cyber+Security)+%40+Amrita%2C+CGPA+9.44;Building+ML-Powered+Security+Systems;Zero+Trust+%7C+IAM%2FPAM+%7C+Applied+Cryptography;Hackathon+Winner+%7C+CTF+Player+%7C+Android+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(Cyber+Security)+%40+Amrita%2C+CGPA+9.44;Building+ML-Powered+Security+Systems;Zero+Trust+%7C+IAM%2FPAM+%7C+Applied+Cryptography;Hackathon+Winner+%7C+CTF+Player+%7C+Android+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
